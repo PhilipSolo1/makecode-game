@@ -1,0 +1,13 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHB3dwAAAAAAd3d3B+AAAHB3d3cH4AAAcHd3d+fuDgBwd3d35+4OAHB3d3fn7g4AcHd3dwfuAABwd3d3B+AAAHB3d3cAAAAAAHd3dwAAAAAAcHcAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
